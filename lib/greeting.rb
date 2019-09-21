@@ -1,3 +1,4 @@
-def greeting
+def greeting(name)
+  puts
   
   
